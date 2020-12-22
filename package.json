@@ -1,0 +1,26 @@
+{
+  "name": "kc-is",
+  "version": "1.0.10",
+  "description": "[js] Check datatype only not to write typeof.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-is.git"
+  },
+  "keywords": [
+    "detect",
+    "check",
+    "get",
+    "datatype",
+    "type"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-is/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-is",
+  "dependencies": {
+    "fun2mod": "^1.0.3"
+  }
+}
