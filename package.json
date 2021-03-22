@@ -1,6 +1,6 @@
 {
   "name": "kc-is",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "[js] Check datatype only not to write typeof.",
   "main": "index.js",
   "repository": {
